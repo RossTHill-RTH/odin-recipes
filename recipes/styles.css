@@ -1,0 +1,30 @@
+body {
+    background-color: beige;
+    
+    
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.description{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.home{
+    font-size: 32px;
+}
+
+
+
+
